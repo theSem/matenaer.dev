@@ -32,6 +32,9 @@ theme: jekyll-theme-console
 plugins:
   - jekyll-feed
 
+gems:
+  - jekyll-seo-tag
+
 header_pages:
   - index.md
   # - about.md
