@@ -7,7 +7,7 @@ categories: games
 
 # Tangle Tower Tangles your Brain
 
-<img src="/assets/imgs/Tangle Tower Logo 1.png" alt="tangle tower logo" class="center"/>
+<img src="/assets/imgs/Tangle Tower Logo 1.png" alt="tangle tower logo" style="display: block; margin-left: auto; margin-right: auto; width: 50%"/>
 
 > Unravel a thrilling mystery by exploring a strange and twisted mansion, discovering curious clues, interrogating peculiar suspects and solving unique puzzles. Will you be able to uncover the secrets of Tangle Tower?
 >
@@ -35,7 +35,7 @@ Go [play this game](https://store.steampowered.com/app/359510/Tangle_Tower/), it
 
 Watch the trailer:
 
-<iframe class = "center" width="auto" height="auto" src="https://www.youtube.com/embed/3JEliSJ859I" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen> </iframe>
+<iframe class = "center" width="auto" height="auto" src="https://www.youtube.com/embed/3JEliSJ859I" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="display: block; margin-left: auto; margin-right: auto; width: 50%"> </iframe>
 
 
 
