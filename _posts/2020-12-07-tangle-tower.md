@@ -7,8 +7,7 @@ categories: games
 
 # Tangle Tower Tangles your Brain
 
-{% picture TangleTowerTest.png --parent class="center" %}
-
+<img src="/assets/imgs/Tangle Tower Logo 1.png" alt="tangle tower logo" class="center"/>
 
 > Unravel a thrilling mystery by exploring a strange and twisted mansion, discovering curious clues, interrogating peculiar suspects and solving unique puzzles. Will you be able to uncover the secrets of Tangle Tower?
 >
