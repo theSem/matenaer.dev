@@ -43,3 +43,8 @@ style: dark # dark (default), light or hacker
 listen_for_clients_preferred_style: true # false (default) or true
 
 # footer: 'follow us on <a href="https://twitter.com/xxx">twitter</a>'
+
+picture:
+  source: "assets/images/fullsize"
+  output: "assets/images/generated"
+  suppress_warnings: false
