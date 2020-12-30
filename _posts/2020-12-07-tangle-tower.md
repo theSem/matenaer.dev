@@ -1,8 +1,9 @@
 ---
 layout: post
-title:  "Tangle Tower"
-date:   2020-12-07 10:59
+title: Tangle Tower
+date: '2020-12-07 10:59'
 categories: games
+published: true
 ---
 
 # Tangle Tower Tangles your Brain
@@ -29,13 +30,10 @@ The people category contains a list of all of the suspects being investigated, a
 
 In a game, the clues and information that are collected can be organized by the game, hopefully giving the player headspace by requiring less memorization of facts whereas in a film, the only records of information are in the viewers mental picture. However, having the game manage this information might not always be the greatest way to store info. Perhaps the game is storing too much information that obfuscates exactly what is going on whereas in a film, the viewer might be able to make connections that require less concrete information and more of a mental picture of the situation. However, I believe that is exactly the point of the game, even the name suggests that the stories are wildly tangled making it difficult to see the truth. 
 
-In the game, nobody seems to really know why the tower is called Tangle Tower but as you get further into the game, it becomes quite apparent. The tower is named after the tangling of two families and the messy relationships and secrets each family member has. To demonstrate this, *Tangle Tower* gives each family member a locked secret, that can only be revealed once the player has collected enough information. This is universal to every family member, showing that even seemingly naïve characters have something to hide.
+In the game, nobody seems to really know why the tower is called Tangle Tower but as you get further into the game, it becomes quite apparent. The tower is named after the tangling of two families and the messy relationships and secrets each family member has. To demonstrate this, *Tangle Tower* gives each family member a locked secret, that can only be revealed once the player has collected enough information. This is universal to every family member, showing that even seemingly naive characters have something to hide.
 
 Go [play this game](https://store.steampowered.com/app/359510/Tangle_Tower/), it's great.
 
 Watch the trailer:
 
 <iframe class = "center" width="auto" height="auto" src="https://www.youtube.com/embed/3JEliSJ859I" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="display: block; margin-left: auto; margin-right: auto; width: 50%"> </iframe>
-
-
-
