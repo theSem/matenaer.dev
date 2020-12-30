@@ -17,6 +17,7 @@ published: true
 No spoilers here!
 
 *Tangle Tower* is a heavily story based game, with puzzles sprinkled throughout. You help guide Detective Grimoire: an easily distractable but thorough investigator, who is kept on track by his quick-witted sidekick, Sally. The two investigate areas in the house, and interview suspects while solving random puzzles along the way. 
+![00000IMG_00000_BURST20170810232432_COVER.jpg]({{site.baseurl}}/_posts/00000IMG_00000_BURST20170810232432_COVER.jpg)
 
 <div/>
 
